@@ -10,7 +10,7 @@ export default function CityListItem({ id, city, population }) {
   
   return (
     <li
-      className="list-group-item list-group-item-city-list-height mt-1 mb-1 bg-light"
+      className="list-group-item list-group-item-city-list-height mb-4"
       onClick={() => {
         setTempId(id);
         startTransition(() => {
@@ -18,11 +18,10 @@ export default function CityListItem({ id, city, population }) {
         });
       }}
     >
-      {city}
-      <br />
-      &nbsp;&nbsp;&nbsp;Population:{" "}
+      <h4>{city}</h4>
+      Population:{" "}
       {population.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")}
-      <br/> {isPending && tempId === id ? <i className="fas fa-spinner fa-spin fa-2x" aria-hidden="true"></i> : null}
+      {isPending && tempId === id ? <i className="fas fa-spinner fa-spin fa-2x" aria-hidden="true"></i> : null}
     </li>
   );
 }

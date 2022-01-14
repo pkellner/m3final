@@ -11,8 +11,8 @@ function CityLayout() {
   return (
     <>
       <CityListMaxDDL />
-      <hr/>
       <SearchBar />
+      <hr/>
       <CityList displayCount={5} />
       { selectedCityId && <CityDetail cityId={selectedCityId} /> }
     </>

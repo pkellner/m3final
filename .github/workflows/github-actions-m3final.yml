@@ -8,10 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest  # windows-latest | macos-latest
-    defaults:
-      run:
-        working-directory: m3final   # UPDATE 
-
     name: docker build if docker file changed
     steps:
       - uses: actions/checkout@v2
@@ -42,7 +38,7 @@ jobs:
           DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
           STATIC_RENDER_MINIMIZE: ${{secrets.STATIC_RENDER_MINIMIZE}}
         run: |
-          RELEASEVERSION=2.1
+          RELEASEVERSION=2.2
           # RELEASEVERSION=$(cat version.txt) 
           # https://github.community/t/wanting-to-add-a-build-date-and-time-to-my-github-action/220185/6'
           #

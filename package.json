@@ -1,0 +1,27 @@
+{
+  "name": "react-18-demo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pages/index.js",
+  "private": true,
+  "author": "Peter Kellner",
+  "license": "ISC",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.0.7",
+    "react": "^18.0.0-rc.0",
+    "react-dom": "^18.0.0-rc.0",
+    "swr": "^1.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-next": "^11.0.1",
+    "eslint-plugin-react": "^7.23.1",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
+}

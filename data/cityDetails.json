@@ -1,0 +1,702 @@
+[
+  {
+    "id": 4,
+    "city": "New York",
+    "population": "8405837",
+    "temperature": 41,
+    "airQualityPPM": 57
+  },
+  {
+    "id": 5,
+    "city": "Los Angeles",
+    "population": "3884307",
+    "temperature": 60,
+    "airQualityPPM": 42
+  },
+  {
+    "id": 6,
+    "city": "Chicago",
+    "population": "2718782",
+    "temperature": 49,
+    "airQualityPPM": 102
+  },
+  {
+    "id": 7,
+    "city": "Houston",
+    "population": "2195914",
+    "temperature": 51,
+    "airQualityPPM": 6
+  },
+  {
+    "id": 8,
+    "city": "Philadelphia",
+    "population": "1553165",
+    "temperature": 41,
+    "airQualityPPM": 27
+  },
+  {
+    "id": 9,
+    "city": "Phoenix",
+    "population": "1513367",
+    "temperature": 60,
+    "airQualityPPM": 39
+  },
+  {
+    "id": 1,
+    "city": "San Antonio",
+    "population": "1409019",
+    "temperature": 55,
+    "airQualityPPM": 93
+  },
+  {
+    "id": 10,
+    "city": "San Diego",
+    "population": "1355896",
+    "temperature": 62,
+    "airQualityPPM": 75
+  },
+  {
+    "id": 11,
+    "city": "Dallas",
+    "population": "1257676",
+    "temperature": 48,
+    "airQualityPPM": 144
+  },
+  {
+    "id": 12,
+    "city": "San Jose",
+    "population": "998537",
+    "temperature": 77,
+    "airQualityPPM": 42
+  },
+  {
+    "id": 13,
+    "city": "Austin",
+    "population": "885400",
+    "temperature": 53,
+    "airQualityPPM": 57
+  },
+  {
+    "id": 14,
+    "city": "Indianapolis",
+    "population": "843393",
+    "temperature": 72,
+    "airQualityPPM": 60
+  },
+  {
+    "id": 15,
+    "city": "Jacksonville",
+    "population": "842583",
+    "temperature": 60,
+    "airQualityPPM": 21
+  },
+  {
+    "id": 3,
+    "city": "San Francisco",
+    "population": "837442",
+    "temperature": 49,
+    "airQualityPPM": 99
+  },
+  {
+    "id": 16,
+    "city": "Columbus",
+    "population": "822553",
+    "temperature": 41,
+    "airQualityPPM": 108
+  },
+  {
+    "id": 17,
+    "city": "Charlotte",
+    "population": "792862",
+    "temperature": 44,
+    "airQualityPPM": 48
+  },
+  {
+    "id": 18,
+    "city": "Fort Worth",
+    "population": "792727",
+    "temperature": 45,
+    "airQualityPPM": 126
+  },
+  {
+    "id": 19,
+    "city": "Detroit",
+    "population": "688701",
+    "temperature": 40,
+    "airQualityPPM": 123
+  },
+  {
+    "id": 20,
+    "city": "El Paso",
+    "population": "674433",
+    "temperature": 42,
+    "airQualityPPM": 21
+  },
+  {
+    "id": 21,
+    "city": "Memphis",
+    "population": "653450",
+    "temperature": 54,
+    "airQualityPPM": 63
+  },
+  {
+    "id": 22,
+    "city": "Seattle",
+    "population": "652405",
+    "temperature": 50,
+    "airQualityPPM": 3
+  },
+  {
+    "id": 23,
+    "city": "Denver",
+    "population": "649495",
+    "temperature": 47,
+    "airQualityPPM": 0
+  },
+  {
+    "id": 24,
+    "city": "Washington",
+    "population": "646449",
+    "temperature": 43,
+    "airQualityPPM": 36
+  },
+  {
+    "id": 25,
+    "city": "Boston",
+    "population": "645966",
+    "temperature": 46,
+    "airQualityPPM": 45
+  },
+  {
+    "id": 26,
+    "city": "Nashville-Davidson",
+    "population": "634464",
+    "temperature": 47,
+    "airQualityPPM": 75
+  },
+  {
+    "id": 27,
+    "city": "Baltimore",
+    "population": "622104",
+    "temperature": 50,
+    "airQualityPPM": 30
+  },
+  {
+    "id": 28,
+    "city": "Oklahoma City",
+    "population": "610613",
+    "temperature": 45,
+    "airQualityPPM": 69
+  },
+  {
+    "id": 29,
+    "city": "Louisville/Jefferson County",
+    "population": "609893",
+    "temperature": 51,
+    "airQualityPPM": 9
+  },
+  {
+    "id": 30,
+    "city": "Portland",
+    "population": "609456",
+    "temperature": 44,
+    "airQualityPPM": 21
+  },
+  {
+    "id": 31,
+    "city": "Las Vegas",
+    "population": "603488",
+    "temperature": 49,
+    "airQualityPPM": 33
+  },
+  {
+    "id": 32,
+    "city": "Milwaukee",
+    "population": "599164",
+    "temperature": 33,
+    "airQualityPPM": 9
+  },
+  {
+    "id": 33,
+    "city": "Albuquerque",
+    "population": "556495",
+    "temperature": 34,
+    "airQualityPPM": 21
+  },
+  {
+    "id": 34,
+    "city": "Tucson",
+    "population": "526116",
+    "temperature": 46,
+    "airQualityPPM": 24
+  },
+  {
+    "id": 35,
+    "city": "Fresno",
+    "population": "509924",
+    "temperature": 47,
+    "airQualityPPM": 111
+  },
+  {
+    "id": 36,
+    "city": "Sacramento",
+    "population": "479686",
+    "temperature": 53,
+    "airQualityPPM": 120
+  },
+  {
+    "id": 37,
+    "city": "Long Beach",
+    "population": "469428",
+    "temperature": 64,
+    "airQualityPPM": 150
+  },
+  {
+    "id": 38,
+    "city": "Kansas City",
+    "population": "467007",
+    "temperature": 36,
+    "airQualityPPM": 48
+  },
+  {
+    "id": 39,
+    "city": "Mesa",
+    "population": "457587",
+    "temperature": 63,
+    "airQualityPPM": 3
+  },
+  {
+    "id": 40,
+    "city": "Virginia Beach",
+    "population": "448479",
+    "temperature": 66,
+    "airQualityPPM": 3
+  },
+  {
+    "id": 41,
+    "city": "Atlanta",
+    "population": "447841",
+    "temperature": 50,
+    "airQualityPPM": 24
+  },
+  {
+    "id": 42,
+    "city": "Colorado Springs",
+    "population": "439886",
+    "temperature": 43,
+    "airQualityPPM": 0
+  },
+  {
+    "id": 43,
+    "city": "Omaha",
+    "population": "434353",
+    "temperature": 33,
+    "airQualityPPM": 0
+  },
+  {
+    "id": 44,
+    "city": "Raleigh",
+    "population": "431746",
+    "temperature": 49,
+    "airQualityPPM": 15
+  },
+  {
+    "id": 45,
+    "city": "Miami",
+    "population": "417650",
+    "temperature": 84,
+    "airQualityPPM": 36
+  },
+  {
+    "id": 46,
+    "city": "Oakland",
+    "population": "406253",
+    "temperature": 54,
+    "airQualityPPM": 90
+  },
+  {
+    "id": 47,
+    "city": "Minneapolis",
+    "population": "400070",
+    "temperature": 22,
+    "airQualityPPM": 57
+  },
+  {
+    "id": 48,
+    "city": "Tulsa",
+    "population": "398121",
+    "temperature": 40,
+    "airQualityPPM": 75
+  },
+  {
+    "id": 49,
+    "city": "Cleveland",
+    "population": "390113",
+    "temperature": 47,
+    "airQualityPPM": 108
+  },
+  {
+    "id": 50,
+    "city": "Wichita",
+    "population": "386552",
+    "temperature": 36,
+    "airQualityPPM": 72
+  },
+  {
+    "id": 51,
+    "city": "Arlington",
+    "population": "379577",
+    "temperature": 42,
+    "airQualityPPM": 111
+  },
+  {
+    "id": 52,
+    "city": "New Orleans",
+    "population": "378715",
+    "temperature": 54,
+    "airQualityPPM": 6
+  },
+  {
+    "id": 53,
+    "city": "Bakersfield",
+    "population": "363630",
+    "temperature": 54,
+    "airQualityPPM": 102
+  },
+  {
+    "id": 54,
+    "city": "Tampa",
+    "population": "352957",
+    "temperature": 68,
+    "airQualityPPM": 0
+  },
+  {
+    "id": 55,
+    "city": "Honolulu",
+    "population": "347884",
+    "temperature": 76,
+    "airQualityPPM": 0
+  },
+  {
+    "id": 56,
+    "city": "Aurora",
+    "population": "345803",
+    "temperature": 47,
+    "airQualityPPM": 0
+  },
+  {
+    "id": 57,
+    "city": "Anaheim",
+    "population": "345012",
+    "temperature": 70,
+    "airQualityPPM": 54
+  },
+  {
+    "id": 58,
+    "city": "Santa Ana",
+    "population": "334227",
+    "temperature": 61,
+    "airQualityPPM": 150
+  },
+  {
+    "id": 59,
+    "city": "St. Louis",
+    "population": "318416",
+    "temperature": 42,
+    "airQualityPPM": 135
+  },
+  {
+    "id": 60,
+    "city": "Riverside",
+    "population": "316619",
+    "temperature": 60,
+    "airQualityPPM": 9
+  },
+  {
+    "id": 61,
+    "city": "Corpus Christi",
+    "population": "316381",
+    "temperature": 61,
+    "airQualityPPM": 30
+  },
+  {
+    "id": 62,
+    "city": "Lexington-Fayette",
+    "population": "308428",
+    "temperature": 41,
+    "airQualityPPM": 57
+  },
+  {
+    "id": 63,
+    "city": "Pittsburgh",
+    "population": "305841",
+    "temperature": 47,
+    "airQualityPPM": 66
+  },
+  {
+    "id": 64,
+    "city": "Anchorage",
+    "population": "300950",
+    "temperature": 27,
+    "airQualityPPM": 33
+  },
+  {
+    "id": 65,
+    "city": "Stockton",
+    "population": "298118",
+    "temperature": 56,
+    "airQualityPPM": 66
+  },
+  {
+    "id": 66,
+    "city": "Cincinnati",
+    "population": "297517",
+    "temperature": 37,
+    "airQualityPPM": 3
+  },
+  {
+    "id": 67,
+    "city": "St. Paul",
+    "population": "294873",
+    "temperature": 25,
+    "airQualityPPM": 63
+  },
+  {
+    "id": 68,
+    "city": "Toledo",
+    "population": "282313",
+    "temperature": 42,
+    "airQualityPPM": 132
+  },
+  {
+    "id": 69,
+    "city": "Greensboro",
+    "population": "279639",
+    "temperature": 47,
+    "airQualityPPM": 21
+  },
+  {
+    "id": 70,
+    "city": "Newark",
+    "population": "278427",
+    "temperature": 59,
+    "airQualityPPM": 21
+  },
+  {
+    "id": 71,
+    "city": "Plano",
+    "population": "274409",
+    "temperature": 48,
+    "airQualityPPM": 87
+  },
+  {
+    "id": 72,
+    "city": "Henderson",
+    "population": "270811",
+    "temperature": 51,
+    "airQualityPPM": 33
+  },
+  {
+    "id": 73,
+    "city": "Lincoln",
+    "population": "268738",
+    "temperature": 29,
+    "airQualityPPM": 48
+  },
+  {
+    "id": 74,
+    "city": "Buffalo",
+    "population": "258959",
+    "temperature": 41,
+    "airQualityPPM": 105
+  },
+  {
+    "id": 75,
+    "city": "Jersey City",
+    "population": "257342",
+    "temperature": 42,
+    "airQualityPPM": 45
+  },
+  {
+    "id": 76,
+    "city": "Chula Vista",
+    "population": "256780",
+    "temperature": 73,
+    "airQualityPPM": 33
+  },
+  {
+    "id": 77,
+    "city": "Fort Wayne",
+    "population": "256496",
+    "temperature": 41,
+    "airQualityPPM": 132
+  },
+  {
+    "id": 78,
+    "city": "Orlando",
+    "population": "255483",
+    "temperature": 71,
+    "airQualityPPM": 0
+  },
+  {
+    "id": 79,
+    "city": "St. Petersburg",
+    "population": "249688",
+    "temperature": 75,
+    "airQualityPPM": 0
+  },
+  {
+    "id": 80,
+    "city": "Chandler",
+    "population": "249146",
+    "temperature": 55,
+    "airQualityPPM": 0
+  },
+  {
+    "id": 81,
+    "city": "Laredo",
+    "population": "248142",
+    "temperature": 80,
+    "airQualityPPM": 21
+  },
+  {
+    "id": 82,
+    "city": "Norfolk",
+    "population": "246139",
+    "temperature": 66,
+    "airQualityPPM": 3
+  },
+  {
+    "id": 83,
+    "city": "Durham",
+    "population": "245475",
+    "temperature": 43,
+    "airQualityPPM": 30
+  },
+  {
+    "id": 84,
+    "city": "Madison",
+    "population": "243344",
+    "temperature": 28,
+    "airQualityPPM": 27
+  },
+  {
+    "id": 85,
+    "city": "Lubbock",
+    "population": "239538",
+    "temperature": 42,
+    "airQualityPPM": 24
+  },
+  {
+    "id": 86,
+    "city": "Irvine",
+    "population": "236716",
+    "temperature": 63,
+    "airQualityPPM": 123
+  },
+  {
+    "id": 87,
+    "city": "Winston-Salem",
+    "population": "236441",
+    "temperature": 45,
+    "airQualityPPM": 72
+  },
+  {
+    "id": 88,
+    "city": "Glendale",
+    "population": "234632",
+    "temperature": 52,
+    "airQualityPPM": 15
+  },
+  {
+    "id": 89,
+    "city": "Garland",
+    "population": "234566",
+    "temperature": 46,
+    "airQualityPPM": 117
+  },
+  {
+    "id": 90,
+    "city": "Hialeah",
+    "population": "233394",
+    "temperature": 84,
+    "airQualityPPM": 36
+  },
+  {
+    "id": 91,
+    "city": "Reno",
+    "population": "233294",
+    "temperature": 34,
+    "airQualityPPM": 57
+  },
+  {
+    "id": 92,
+    "city": "Chesapeake",
+    "population": "230571",
+    "temperature": 66,
+    "airQualityPPM": 3
+  },
+  {
+    "id": 93,
+    "city": "Gilbert",
+    "population": "229972",
+    "temperature": 63,
+    "airQualityPPM": 18
+  },
+  {
+    "id": 94,
+    "city": "Baton Rouge",
+    "population": "229426",
+    "temperature": 54,
+    "airQualityPPM": 63
+  },
+  {
+    "id": 95,
+    "city": "Irving",
+    "population": "228653",
+    "temperature": 45,
+    "airQualityPPM": 135
+  },
+  {
+    "id": 96,
+    "city": "Scottsdale",
+    "population": "226918",
+    "temperature": 61,
+    "airQualityPPM": 6
+  },
+  {
+    "id": 97,
+    "city": "North Las Vegas",
+    "population": "226877",
+    "temperature": 49,
+    "airQualityPPM": 33
+  },
+  {
+    "id": 98,
+    "city": "Fremont",
+    "population": "224922",
+    "temperature": 79,
+    "airQualityPPM": 0
+  },
+  {
+    "id": 99,
+    "city": "Boise City",
+    "population": "214237",
+    "temperature": 42,
+    "airQualityPPM": 75
+  },
+  {
+    "id": 100,
+    "city": "Richmond",
+    "population": "214114",
+    "temperature": 44,
+    "airQualityPPM": 51
+  },
+  {
+    "id": 101,
+    "city": "San Bernardino",
+    "population": "213708",
+    "temperature": 59,
+    "airQualityPPM": 18
+  }
+]

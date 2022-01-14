@@ -9,11 +9,10 @@ export default function CityDetail({ cityId }) {
   return (
     <>
       <hr />
-      <div>
-        <b>
-          {data.city}, {data.state} Temperature:{data.temperature} Air Quality:{" "}
-          {data.airQualityPPM}
-        </b>
+      <div className="city-details">
+        <h4>{data.city} {data.state}</h4> 
+        <span>Temperature: {data.temperature}</span> 
+        <span>Air Quality:{" "} {data.airQualityPPM}</span>
       </div>
     </>
   );

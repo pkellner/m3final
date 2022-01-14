@@ -13,7 +13,7 @@ export const CityListFallback = ({ displayCount }) => {
         .map((rec, index) => {
           return (
             <li
-              className="list-group-item list-group-item-city-list-height mt-1 mb-1 bg-light"
+              className="list-group-item list-group-item-city-list-height mb-4"
               key={index}
             >
               <div className="image-placeholder-citylist" />

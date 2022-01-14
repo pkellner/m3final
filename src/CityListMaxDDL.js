@@ -6,10 +6,10 @@ export default function CityListMaxDDL() {
   const cityCountChoices = [3, 5, 10];
 
   return (
-    <h3 className="mb-3">
+    <div>
       <select
         name="select"
-        className="font-size-smaller"
+        className="custom-select"
         onChange={(e) => {
           setCityMax(e.target.value);
           setSelectedCityId(undefined);
@@ -24,6 +24,6 @@ export default function CityListMaxDDL() {
           );
         })}
       </select>
-    </h3>
+    </div>
   );
 }

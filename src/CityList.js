@@ -25,10 +25,7 @@ export const CityListFallback = ({ displayCount }) => {
 };
 
 export default function CityList() {
-  const fetcher = (url) => {
-    return fetch(url).then((res) => res.json());
-  };
-
+  
   function RenderComponent() {
     const { cityMax, selectedCityId, setSelectedCityId, searchText } =
       useContext(CityContext);

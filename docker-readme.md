@@ -43,3 +43,7 @@ https://www.papertrail.com/solution/tips/how-to-live-tail-docker-logs/
 - docker logs --follow --until=30m
 
 docker exec -it <container name> /bin/bash
+
+adding for tag1
+
+
